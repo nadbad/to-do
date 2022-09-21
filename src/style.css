@@ -1,0 +1,31 @@
+body {
+	background-color: #fad390;
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 75px;
+	padding: 50px;
+	background-color: #fafafa;
+	border-width: 1px;
+	border-style: solid;
+	border-color: rgba(0, 0, 0, 0.1);
+	border-image: initial;
+	border-radius: 10px;
+}
+
+.to-do-list {
+	width: 100%;
+	margin-top: 75px;
+	padding: 20px;
+	background-color: #fff;
+	border-width: 1px;
+	border-style: solid;
+	border-color: rgba(0, 0, 0, 0.1);
+	border-image: initial;
+	border-radius: 10px;
+}
